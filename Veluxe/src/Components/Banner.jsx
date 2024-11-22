@@ -2,7 +2,7 @@ import React from "react";
 
 export default function Banner() {
   return (
-    <div className="carousel w-full h-[400px] text-white">
+    <div className="carousel w-full md:h-[350px] text-white">
       <div id="slide1" className="carousel-item relative w-full">
         <div className="grid md:grid-cols-12 items-center justify-between bg-[#71a5cd] w-full p-10">
           <div className=" col-span-8 md:ml-20">
@@ -49,7 +49,7 @@ export default function Banner() {
           <div className="hidden md:block col-span-4">
             <img
               className=" w-[250px] md:w-[500px] h-[300px] object-contain"
-              src="https://c1.neweggimages.com/productimage/nb300/ACBWD2403151A0T8C3E.jpg"
+              src="https://t3.ftcdn.net/jpg/03/41/39/64/360_F_341396445_KAdFBQyqArOtAUxiCQosGvU1aRv9iD6s.jpg"
               alt=""
             />
           </div>

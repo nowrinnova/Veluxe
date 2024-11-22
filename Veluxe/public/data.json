@@ -1,0 +1,122 @@
+[
+  {
+    "_id": "1",
+    "type": "Laptop",
+    "category": "Electronics",
+    "name": "Dell XPS 13",
+    "inStock": true,
+    "price": 1299.99,
+    "quantity": 20,
+    "rating": 4.8,
+    "description": "A premium ultra-slim laptop with a 13.3-inch display, powerful Intel i7 processor, and long battery life.",
+    "image": "https://www.cnet.com/a/img/resize/758284b08235f7eafadd9147c896cbc447a79190/hub/2019/01/04/e9b8db70-c41a-4440-9c1d-0de8a897aeef/dell-xps-13-17.jpg?auto=webp&width=1200"
+  },
+  {
+    "_id": "2",
+    "type": "Tablet",
+    "category": "Electronics",
+    "name": "Apple iPad Pro",
+    "inStock": true,
+    "price": 1099.99,
+    "quantity": 15,
+    "rating": 4.9,
+    "description": "A versatile tablet with a 12.9-inch Liquid Retina display, M2 chip, and Apple Pencil compatibility.",
+    "image": "https://media.gettyimages.com/id/2021254234/photo/apple-ipad-pro-is-seen-at-the-store-in-krakow-poland-on-february-21-2024.jpg?s=612x612&w=0&k=20&c=SVSlEDQyiHXK6BW-mt0r8cmW2bpgxkZDJA39cBkw8ro="
+  },
+  {
+    "_id": "3",
+    "type": "Smartphone",
+    "category": "Electronics",
+    "name": "Samsung Galaxy S23",
+    "inStock": true,
+    "price": 999.99,
+    "quantity": 30,
+    "rating": 4.7,
+    "description": "A high-performance smartphone with an advanced triple camera system and a sleek AMOLED display.",
+    "image": "https://m.media-amazon.com/images/I/317tI78yr1L.jpg"
+  },
+  {
+    "_id": "4",
+    "type": "Watch",
+    "category": "Electronics",
+    "name": "Apple Watch Series 9",
+    "inStock": true,
+    "price": 499.99,
+    "quantity": 50,
+    "rating": 4.8,
+    "description": "A smart wearable with advanced health monitoring, customizable watch faces, and fitness tracking.",
+    "image": "https://www.apple.com/v/watch/bo/images/overview/consider_modals/health/modal_health_sleep__b5sbshxkaj36_xlarge.jpg"
+  },
+  {
+    "_id": "5",
+    "type": "Camera",
+    "category": "Electronics",
+    "name": "Sony Alpha a7 III",
+    "inStock": false,
+    "price": 1999.99,
+    "quantity": 0,
+    "rating": 4.9,
+    "description": "A professional-grade mirrorless camera with exceptional low-light performance and 4K video recording.",
+    "image": "https://www.bhphotovideo.com/cdn-cgi/image/format=auto,fit=scale-down,width=500,quality=95/https://www.bhphotovideo.com/images/images500x500/sony_ilce_7m3_alpha_a7_iii_mirrorless_1519677934_1394217.jpg"
+  },
+  {
+    "_id": "6",
+    "type": "Laptop",
+    "category": "Electronics",
+    "name": "MacBook Pro 16",
+    "inStock": true,
+    "price": 2499.99,
+    "quantity": 10,
+    "rating": 4.9,
+    "description": "A powerful laptop with a stunning Retina display and M2 Max chip for professionals.",
+    "image": "https://m.media-amazon.com/images/I/61aUBxqc5PL.jpg"
+  },
+  {
+    "_id": "7",
+    "type": "Tablet",
+    "category": "Electronics",
+    "name": "Samsung Galaxy Tab S8",
+    "inStock": true,
+    "price": 849.99,
+    "quantity": 25,
+    "rating": 4.6,
+    "description": "A sleek and portable tablet with an 11-inch display and S Pen support for creativity and productivity.",
+    "image": "https://cdn.mos.cms.futurecdn.net/UT2tpjsh3xDCVTwUpw5y3e-320-80.jpg"
+  },
+  {
+    "_id": "8",
+    "type": "Smartphone",
+    "category": "Electronics",
+    "name": "iPhone 14 Pro",
+    "inStock": false,
+    "price": 1199.99,
+    "quantity": 0,
+    "rating": 4.9,
+    "description": "A flagship smartphone with Dynamic Island, a powerful A16 Bionic chip, and Pro camera features.",
+    "image": "https://www.zdnet.com/a/img/resize/703b531a87e972f4272d056e2a3d350a3396b590/2022/09/22/7d1407ca-5eef-4214-883e-392b1b15addc/iphone-14-pro-and-pro-max.jpg?auto=webp&width=1280"
+  },
+  {
+    "_id": "9",
+    "type": "Watch",
+    "category": "Electronics",
+    "name": "Samsung Galaxy Watch 6",
+    "inStock": true,
+    "price": 399.99,
+    "quantity": 40,
+    "rating": 4.7,
+    "description": "A smartwatch with advanced fitness tracking, a sleek design, and a vivid AMOLED display.",
+    "image": "https://www.androidauthority.com/wp-content/uploads/2023/08/Samsung-Galaxy-Wawtch-6-Classic-Info-Board-scaled.jpg"
+  },
+  {
+    "_id": "10",
+    "type": "Camera",
+    "category": "Electronics",
+    "name": "Canon EOS R6",
+    "inStock": true,
+    "price": 2499.99,
+    "quantity": 5,
+    "rating": 4.8,
+    "description": "A full-frame mirrorless camera with outstanding autofocus and 4K video capabilities.",
+    "image": "https://2.img-dpreview.com/files/p/E~TC4x3S590x0~articles/1548544834/body/Canon-EOS-R6-lead-01.jpeg"
+  }
+]
